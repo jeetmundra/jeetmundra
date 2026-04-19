@@ -77,13 +77,6 @@ Git • CUDA • Firebase • Jupyter Notebook
 
 ---
 
-## 📊 GitHub Stats
-
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetmundra&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetmundra&layout=compact)
-
----
 
 ## 🏆 Achievements
 
