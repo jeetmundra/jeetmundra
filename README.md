@@ -6,7 +6,26 @@
 ☁️ Interested in Cloud Computing, Distributed Systems, and Machine Learning Systems
 
 
-## Research & Systems Projects
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeetmundra)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:jeetmundra52@gmail.com)
+
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![OpenStack](https://img.shields.io/badge/OpenStack-red?style=for-the-badge&logo=openstack)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+
+## 🚀 Research & Systems Projects
 
 ### Resource-Efficient Dynamic Neural Networks for Edge Computing
 Best Paper Award — ComSIA 2026 (Springer LNNS)  
@@ -22,16 +41,3 @@ Developed a real-time anomaly detection pipeline for industrial machinery using 
 ### ADHD Classification from fMRI Data
 WiDS Datathon 2025 — Rank 46 (Global Public Leaderboard)  
 Applied PCA, SMOTE, and connectivity-based feature modeling for classification.
-
-
-## Technical Areas
-
-**Languages:** Python, C++, Java, SQL  
-**Cloud & Systems:** OpenStack, Kubernetes, Docker, Linux, Distributed Systems  
-**Machine Learning:** PyTorch, TensorFlow, scikit-learn, PCA, SMOTE  
-
-
-## Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/jeetmundra  
-📧 Email: jeetmundra52@gmail.com
