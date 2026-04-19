@@ -3,10 +3,10 @@
 🎓 Computer Science Undergraduate @ KLE Technological University  
 🏅 Best Paper Award — ComSIA 2026 (Springer LNNS)  
 🥇 Winner — Hack Malenadu 2026 National-Level Hackathon (INR 1,00,000 Prize)  
-☁️ Interested in Cloud Computing, Distributed Systems & ML Systems
+☁️ Interested in Cloud Computing, Distributed Systems, and Machine Learning Systems
 
 
-## 🚀 Selected Projects
+## Research & Systems Projects
 
 ### Resource-Efficient Dynamic Neural Networks for Edge Computing
 Best Paper Award — ComSIA 2026 (Springer LNNS)  
@@ -24,14 +24,14 @@ WiDS Datathon 2025 — Rank 46 (Global Public Leaderboard)
 Applied PCA, SMOTE, and connectivity-based feature modeling for classification.
 
 
-## 🧠 Technical Areas
+## Technical Areas
 
 **Languages:** Python, C++, Java, SQL  
 **Cloud & Systems:** OpenStack, Kubernetes, Docker, Linux, Distributed Systems  
 **Machine Learning:** PyTorch, TensorFlow, scikit-learn, PCA, SMOTE  
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 🔗 LinkedIn: https://linkedin.com/in/jeetmundra  
 📧 Email: jeetmundra52@gmail.com
