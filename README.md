@@ -3,90 +3,33 @@
 🎓 Computer Science Undergraduate @ KLE Technological University  
 🏅 Best Paper Award — ComSIA 2026 (Springer LNNS)  
 🥇 Winner — Hack Malenadu 2026 National-Level Hackathon (INR 1,00,000 Prize)  
-☁️ Interested in Cloud Computing, Distributed Systems & ML Systems  
-
----
-
-## 🚀 Featured Work
-
-### 🔹 Resource-Efficient Dynamic Neural Networks for Edge Computing
-Awarded **Best Paper Award — ComSIA 2026 (Springer LNNS)**  
-Indexed in:
-- Scopus
-- EI Compendex
-- DBLP
-- Web of Science
-
-Focus:
-Adaptive deep learning architectures for efficient inference on resource-constrained edge devices.
-
----
-
-### 🔹 Multi-node Edge Cloud Auto-Scaling Platform
-Technologies:
-OpenStack • Kubernetes • Docker • Ceilometer • Heat
-
-Implemented:
-- telemetry-driven autoscaling
-- distributed container orchestration
-- edge caching optimization layer
-
----
-
-### 🔹 Predictive Maintenance Intelligence System
-🥇 1st Place — Hack Malenadu 2026
-
-Built a real-time anomaly detection pipeline for industrial machinery using intelligent alert prioritization and predictive analytics.
-
----
-
-### 🔹 ADHD Classification from fMRI Data
-WiDS Datathon 2025
-
-🏆 Rank 46 (Public Leaderboard)
-
-Applied:
-- PCA
-- SMOTE
-- connectivity feature modeling
-- classification pipelines
-
----
-
-### 🔹 Blockchain Supply Chain Traceability Platform
-Smart India Hackathon Project
-
-Built tamper-proof traceability system using:
-Hyperledger Fabric + Smart Contracts
-
----
-
-## 🧠 Tech Stack
-
-### Languages
-Python • C++ • Java • SQL • Bash
-
-### Cloud & Systems
-OpenStack • Kubernetes • Docker • Linux • Distributed Systems
-
-### Machine Learning
-PyTorch • TensorFlow • scikit-learn • PCA • SMOTE • Feature Engineering
-
-### Tools
-Git • CUDA • Firebase • Jupyter Notebook
-
----
+☁️ Interested in Cloud Computing, Distributed Systems & ML Systems
 
 
-## 🏆 Achievements
+## 🚀 Selected Projects
 
-- 🥇 Hack Malenadu 2026 Winner (INR 1,00,000 Prize)
-- 🏅 Best Paper Award — Springer LNNS (ComSIA 2026)
-- 🥇 IES Mumbai Web Development Hackathon Winner
-- 📊 WiDS Datathon Global Rank 46
-- 🧠 DecodeX National Analytics Hackathon Finalist
+### Resource-Efficient Dynamic Neural Networks for Edge Computing
+Best Paper Award — ComSIA 2026 (Springer LNNS)  
+Designed adaptive neural architectures for efficient inference on resource-constrained edge devices.
 
----
+### Multi-node Edge Cloud Auto-Scaling Platform
+Built a telemetry-driven autoscaling infrastructure using OpenStack, Kubernetes, Docker, Ceilometer, and Heat.
+
+### Predictive Maintenance Intelligence System
+Hack Malenadu 2026 — 1st Place  
+Developed a real-time anomaly detection pipeline for industrial machinery using predictive analytics.
+
+### ADHD Classification from fMRI Data
+WiDS Datathon 2025 — Rank 46 (Global Public Leaderboard)  
+Applied PCA, SMOTE, and connectivity-based feature modeling for classification.
+
+
+## 🧠 Technical Areas
+
+**Languages:** Python, C++, Java, SQL  
+**Cloud & Systems:** OpenStack, Kubernetes, Docker, Linux, Distributed Systems  
+**Machine Learning:** PyTorch, TensorFlow, scikit-learn, PCA, SMOTE  
+
 
 ## 🌐 Connect With Me
 
