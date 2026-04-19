@@ -41,3 +41,9 @@ Developed a real-time anomaly detection pipeline for industrial machinery using 
 ### ADHD Classification from fMRI Data
 WiDS Datathon 2025 — Rank 46 (Global Public Leaderboard)  
 Applied PCA, SMOTE, and connectivity-based feature modeling for classification.
+
+
+## 📫 Contact
+
+🔗 LinkedIn: https://linkedin.com/in/jeetmundra  
+📧 Email: jeetmundra52@gmail.com
